@@ -1,5 +1,5 @@
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:16px;">
-  <img src="./charles_schad_cover_letter_bp_profile.png" alt="Charles Schad profile photo" width="110" style="border-radius:50%;" />
+  <img src="./IMG_0825.jpg" alt="Charles Schad profile photo" width="110" style="border-radius:50%;" />
   <div>
     <div style="font-size:1.6em; font-weight:700; color:#d79a93; line-height:1.2;">Charles Schad</div>
     <div>Denver, CO &nbsp;|&nbsp; charles.t.schad@gmail.com</div>
